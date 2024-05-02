@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Red",
+      "category": "Primary Colour",
+      "priceCents": 1600,
+      "imageColour": "F00"
+    },
+    {
+      "id": 2,
+      "name": "Yellow",
+      "category": "Primary Colour",
+      "priceCents": 2100,
+      "imageColour": "FF0"
+    },
+    {
+      "id": 3,
+      "name": "Blue",
+      "category": "Primary Colour",
+      "priceCents": 1200,
+      "imageColour": "00F"
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "category": "Secondary Colour",
+      "priceCents": 1800,
+      "imageColour": "F60"
+    },
+    {
+      "id": 5,
+      "name": "Green",
+      "category": "Secondary Colour",
+      "priceCents": 1600,
+      "imageColour": "0F0"
+    },
+    {
+      "id": 6,
+      "name": "Purple",
+      "category": "Secondary Colour",
+      "priceCents": 2100,
+      "imageColour": "60F"
+    },
+    {
+      "id": 7,
+      "name": "Light Gray",
+      "category": "Grayscale",
+      "priceCents": 1200,
+      "imageColour": "AAA"
+    },
+    {
+      "id": 8,
+      "name": "Dark Gray",
+      "category": "Grayscale",
+      "priceCents": 1600,
+      "imageColour": "333"
+    }
+  ]
